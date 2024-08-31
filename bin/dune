@@ -1,0 +1,4 @@
+(executable
+ (public_name mpst_experiments)
+ (name main)
+ (libraries mpst_experiments))
